@@ -1,0 +1,41 @@
+/*h1
+h2
+h3
+h4
+h5
+h6
+p
+ol
+ul
+img*/
+
+
+
+body {
+	background:#F0F0F0;
+	font-family:"HelveticaNeue-Light";
+	font-size:16px;
+}
+h1 {
+	font-weight: normal;
+	font-family:"HelveticaNeue-Light";
+	font-size:26px;
+	font-variant:small-caps; 
+}
+h2,h3,h4,h5 {
+	font-weight: normal;
+	font-family:"HelveticaNeue-Light";
+	font-size: 21px;
+	font-variant:small-caps; 
+}
+h6 {
+	font-family:Verdana;
+	font-size: 16;
+	color: ;
+	font-variant:small-caps;
+	font-weight: normal; 
+}
+.textbox {
+	background: #FFFFFF; 
+}
+h6:hover {color: #666699}
